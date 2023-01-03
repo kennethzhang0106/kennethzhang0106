@@ -9,7 +9,7 @@
 <a href="">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin/in/kennethzhang0106">
+<a href="[https://linkedin/in/kennethzhang0106](https://www.linkedin.com/in/kennethzhang0106/)">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
